@@ -122,26 +122,6 @@ This project addresses the problem by:
 
 ---
 
-## Project Structure
-
-market-segmentation-project/
-│
-├── data/
-│   └── Mall_Customers.csv
-│
-├── notebook/
-│   └── segmentation.ipynb
-│
-├── src/
-│   └── segmentation.py
-│
-├── output/
-│   └── segmented_customers.csv
-│
-├── README.md
-├── requirements.txt
-└── .gitignore
-
 
 ## Evaluation Metrics
 
@@ -154,9 +134,3 @@ Higher score indicates better-defined clusters.
 Rahil R
 MSc Data Science / Analytics
 
-
-* Kaggle for dataset
-* Scikit-learn documentation
-* Open-source data science community
-
----
